@@ -34,6 +34,34 @@ console.log(formatTime(new Date()));  // 2019/03/26 01:04:27
   超过1周显示具体的日期，格式为Y年M月D日 H时M分
 ```
 
+### 6.req的封装
+
+```
+req的封装
+return 一个 promise
+```
+
+### 7.地理位置格式化
+
+```
+地理位置格式化
+```
+
+### 8.node 设置 CORS
+
+```
+express set CORS
+```
+
+### 9.node 验证Token
+
+```
+node 验证Token
+jwt
+```
+
+
+
 
 
 
